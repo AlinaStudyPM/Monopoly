@@ -1,0 +1,8 @@
+C:\Users\Pugalo\Documents\C#\AK Project 35 Монополия\AK Project 35 Монополия\bin\Debug\AK Project 35 Монополия.exe.config
+C:\Users\Pugalo\Documents\C#\AK Project 35 Монополия\AK Project 35 Монополия\bin\Debug\AK Project 35 Монополия.exe
+C:\Users\Pugalo\Documents\C#\AK Project 35 Монополия\AK Project 35 Монополия\bin\Debug\AK Project 35 Монополия.pdb
+C:\Users\Pugalo\Documents\C#\AK Project 35 Монополия\AK Project 35 Монополия\obj\Debug\AK Project 35 Монополия.csproj.AssemblyReference.cache
+C:\Users\Pugalo\Documents\C#\AK Project 35 Монополия\AK Project 35 Монополия\obj\Debug\AK Project 35 Монополия.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pugalo\Documents\C#\AK Project 35 Монополия\AK Project 35 Монополия\obj\Debug\AK Project 35 Монополия.csproj.CoreCompileInputs.cache
+C:\Users\Pugalo\Documents\C#\AK Project 35 Монополия\AK Project 35 Монополия\obj\Debug\AK Project 35 Монополия.exe
+C:\Users\Pugalo\Documents\C#\AK Project 35 Монополия\AK Project 35 Монополия\obj\Debug\AK Project 35 Монополия.pdb
